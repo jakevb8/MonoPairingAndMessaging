@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">Message:</string>
+	<string name="app_name">Android Client</string>
+	<string name = "ip">192.168.1.1</string>
+	<string name = "ip_label">Server Ip:</string>
+</resources>

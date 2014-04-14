@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidClient", "AndroidClient\AndroidClient.csproj", "{ACB188EE-DD37-4EA2-B210-53FBB3563430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairMessagingLibrary", "PairMessagingLibrary\PairMessagingLibrary.csproj", "{B9A80005-4B3B-4B5F-99B1-F9A8394F0202}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PairMessagingLibrary.Android", "PairMessagingLibrary.Android\PairMessagingLibrary.Android.csproj", "{7E60049B-911B-488F-AB67-EDCAF0456CF5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ServerApp", "ServerApp\ServerApp.csproj", "{275F6BC7-40E2-481A-AD88-816034DBB0D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{275F6BC7-40E2-481A-AD88-816034DBB0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{275F6BC7-40E2-481A-AD88-816034DBB0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{275F6BC7-40E2-481A-AD88-816034DBB0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{275F6BC7-40E2-481A-AD88-816034DBB0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E60049B-911B-488F-AB67-EDCAF0456CF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E60049B-911B-488F-AB67-EDCAF0456CF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E60049B-911B-488F-AB67-EDCAF0456CF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E60049B-911B-488F-AB67-EDCAF0456CF5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ACB188EE-DD37-4EA2-B210-53FBB3563430}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACB188EE-DD37-4EA2-B210-53FBB3563430}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACB188EE-DD37-4EA2-B210-53FBB3563430}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACB188EE-DD37-4EA2-B210-53FBB3563430}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B9A80005-4B3B-4B5F-99B1-F9A8394F0202}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9A80005-4B3B-4B5F-99B1-F9A8394F0202}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9A80005-4B3B-4B5F-99B1-F9A8394F0202}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9A80005-4B3B-4B5F-99B1-F9A8394F0202}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = AndroidClient\AndroidClient.csproj
+	EndGlobalSection
+EndGlobal
